@@ -3,7 +3,7 @@ import Mine from "./mine.jpg";
 const Personal = ()=>{
   return (
     <div className='curve'>
-        <h1 style= {{color : "#fff",padding : "20px 0px 0px 0px",fontSize : "25px",fontWeight:"bold", textDecoration: 'underline double' }}>MANIVARMAN</h1>
+        <h1 style= {{color : "#fff",padding : "20px 0px 0px 0px",fontSize : "25px",fontWeight:"bold", textDecoration: 'underline' }}>MANIVARMAN</h1>
         <h3 style = {{textDecoration : "underline", fontSize : "18px"}}> Digital Marketer</h3>
          
        <img  className = "img mt-3" src={Mine} alt="" />
