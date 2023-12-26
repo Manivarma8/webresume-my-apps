@@ -1,0 +1,166 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Belanosima&family=DM+Sans:ital,opsz,wght@1,9..40,1000&family=Exo:ital,wght@1,300&family=Fira+Sans:wght@500&family=Kablammo&family=Lalezar&family=Lobster&family=Loved+by+the+King&family=Monoton&family=Orbitron&family=Poppins:ital,wght@1,400;1,500&family=Roboto:wght@300;500&family=Zeyada&display=swap');
+
+
+body{
+    display : flex;
+    justify-content: center;
+
+}
+
+.river{
+    width : 595px;
+    height :842px;
+}
+
+.personal{
+    display : flex;
+    background-color: rgb(8, 43, 55);
+   width : 250px;
+   padding :0 0px
+   
+}
+
+.profession{
+background-color: aliceblue;
+padding : 0 30px;
+width : 400px;
+box-sizing: border-box;
+
+}
+h3{
+    color : #fff
+}
+.curve {
+    color: black;
+    text-align: center;
+    height : 100px;
+    background-color: rgb(8, 43, 55);
+    width : 260px;
+    margin-right:0px;
+    padding: 0 25px;
+
+}
+
+.curve h3{
+   font-family: 'Times New Roman', Times, serif;
+}
+
+.img{
+    width : 180px;
+    border-radius: 50%;
+}
+.other{
+    display : grid;
+    justify-content: flex-start;
+    box-sizing: border-box;
+    padding-left: 0px;
+    
+}
+
+i{
+color: aliceblue;
+}
+
+.phone,.envelop, .address{
+display : flex;
+color: #fff;
+}
+
+p{
+    font-size: 13px;
+    margin-left : 12px
+
+}
+
+.phone p{
+    font-size: 15px;
+    font-weight: bold;
+}
+.address p{
+    margin-right: 50px;
+}
+.envelop,.address,.phone p{
+    text-decoration: underline;
+    text-decoration-color: #000;
+}
+
+ul{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+li{
+    color: #fff;
+    margin : 12px 0 ;
+    font-weight: bold;
+}
+.Hobby h6{
+    margin-right : 120px;
+    font-size: 16px;
+    font-weight: bold;
+}
+table,tr, th, td{
+    border: 1px solid black;
+     width : 340px;
+     font-size: 15px;
+     margin-right: 20px;
+
+}
+th,td{
+    text-align: center;
+}
+table,td{
+font-size: 13px;
+}
+h1,h2{
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: underline;
+    text-decoration-color: #000;
+}
+
+.education{
+    margin-top: 20px;
+}
+.Skills{
+    margin-top: 40px;
+    font-size: 18px;
+    font-weight: bold;
+    
+}
+.Skills li{
+    color: #000;
+    margin-top: 0px;
+    text-decoration: none !important;
+    font-weight: bold;
+    gap : 5px;
+    font-size: 16px;
+
+}
+.Obj{
+    margin-top: 30px;
+    color : #000;
+}
+.language,h1{
+   display: flex;
+   flex-direction: column;
+   color: #fff;
+align-items: flex-start;
+margin-top: 20px;
+
+  }
+  .Hobby li{
+    margin-top: 20px;
+  }
+.language li{
+    color: #ede6e6;
+    margin-top: -8px;
+}
+
+/* .personal,h1,h3,i,p,h6,li{
+    color: black;
+    text-decoration-color: #000;
+
+} */
