@@ -18,7 +18,7 @@ function Page2() {
 
 <div className="project">
 <span style = {{textDecoration : "underline"}}>Password  </span><li>Creating a Password using HTML, CSS, and JavaScript was challenging, but I have done it without using any sources of help, such as Google or ChatGPT.</li> 
-<li>Additionally, you can get a new Password with properly mixed letters.</li>
+<li>Additionally, we can get a new Password with properly mixed letters and copy from the button can be used in the password</li>
   <span>  <p> Github -</p> <a href="https://github.com/Manivarma8/passward">Frontend mentor</a>
    </span>
     <span> <p>live Stream - </p><a href=" https://manivarmanresume.netlify.app/">Git hub</a></span>
