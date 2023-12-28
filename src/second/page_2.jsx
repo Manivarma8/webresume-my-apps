@@ -17,11 +17,11 @@ function Page2() {
 <hr />
 
 <div className="project">
-<span style = {{textDecoration : "underline"}}>Password  </span><li>Creating a password using HTML, CSS, and JavaScript was challenging, but I have done it without using any sources of help, such as Google or ChatGPT.</li> 
+<span style = {{textDecoration : "underline"}}>Password  </span><li>Creating a Password using HTML, CSS, and JavaScript was challenging, but I have done it without using any sources of help, such as Google or ChatGPT.</li> 
 <li>Additionally, you can get a new password with properly mixed letters.</li>
   <span>  <p> Github -</p> <a href="https://github.com/Manivarma8/passward">Frontend mentor</a>
    </span>
-    <span> <p>live Stream - </p><a href=" https://github.com/Manivarma8/react-practice">Git hub</a></span>
+    <span> <p>live Stream - </p><a href=" https://manivarmanresume.netlify.app/">Git hub</a></span>
 
 </div>
 <hr />
